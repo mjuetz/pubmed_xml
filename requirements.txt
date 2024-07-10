@@ -3,3 +3,4 @@ click
 w3lib
 requests
 simple-loggers
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
